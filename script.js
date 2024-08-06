@@ -32,6 +32,9 @@ document.querySelectorAll('.verification-inputs input').forEach((input, index, i
     input.addEventListener('input', () => {
         if (input.value.length === 1 && index < inputs.length - 1) {
             inputs[index + 1].focus();
+        } else if (input.value.length === 1 && index === inputs.length - 1) {
+            // Automatically submit the form if the last input is filled
+            document.getElementById('verification-form').submit();
         }
     });
 });

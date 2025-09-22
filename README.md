@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Falcon254
-- 👀 I’m interested in ..cybersecurity,webdevelopment.
-- 🌱 I’m currently learning ...ethical hacking
+- 👀 I’m interested in ..cybersecurity,webdevelopment./blockchain
+- 🌱 I’m currently learning ...ethical hacking/
 - 💞️ I’m looking to collaborate on ...webdevelopment
 - 📫 How to reach me ...
 - 😄 Pronouns: ...her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...jack of all trades
 
 <!---
 Falcon254/Falcon254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

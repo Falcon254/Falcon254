@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...ethical hacking/
 - 💞️ I’m looking to collaborate on ...webdevelopment
 - 📫 How to reach me ...
-- 😄 Pronouns: ...her
+
 - ⚡ Fun fact: ...jack of all trades
 
 <!---

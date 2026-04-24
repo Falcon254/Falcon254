@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on ...webdevelopment
 - 📫 How to reach me ...
 
-- ⚡ Fun fact: ...jack of all trades
-
-<!---
+- 
 Falcon254/Falcon254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

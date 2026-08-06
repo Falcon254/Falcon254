@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Falcon254
-- 👀 I’m interested in ..cybersecurity,webdevelopment./blockchain
-- 🌱 I’m currently learning ...ethical hacking/
-- 💞️ I’m looking to collaborate on ...webdevelopment
-- 📫 How to reach me ...
+  professional googler | part-time developer
+my code: 10% skill, 90% stackoverflow
+currently stuck, but make it productive 💪...
+bug hunter 
 
 - 
 Falcon254/Falcon254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
